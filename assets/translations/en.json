@@ -1,0 +1,91 @@
+{
+  "app_title": "Play Baloot",
+  
+  "common": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "start": "Start",
+    "finish": "Finish",
+    "save": "Save",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!"
+  },
+  
+  "intro": {
+    "scan": "Scan a QR code to join a room",
+    "play": "Play against other players",
+    "score": "Score\npoints\nand win",
+    "get_started": "Get Started"
+  },
+  
+  "home": {
+    "title": "Join Or Create Room",
+    "join_room": "Join Room",
+    "create_room": "Create Room"
+  },
+  
+  "room": {
+    "title": "The Game Room",
+    "team1": "Team 1",
+    "team2": "Team 2",
+    "target": "Target",
+    "player1": "Player 1",
+    "player2": "Player 2",
+    "end_round": "End Round",
+    "finish_game": "Finish Game",
+    "exit_game": "Exit Game",
+    "waiting_admin": "Waiting for admin...",
+    "victory": "Victory",
+    "game_finished": "Game Finished",
+    "team_wins": "{team} wins",
+    "back_to_menu": "Back to Menu",
+    "new_game": "New Game",
+    "leave_room": "Leave Room"
+  },
+  
+  "create_room": {
+    "title": "Create New Room",
+    "target_score": "Target Score",
+    "game_time": "Game Time (minutes)",
+    "create": "Create Room",
+    "room_created": "Room created successfully!",
+    "admin_name": "Admin Name",
+    "admin_hint": "Owner of the room",
+    "choose_time": "Choose Time",
+    "minutes": "minutes",
+    "hour": "hour",
+    "hours": "hours",
+    "points": "points",
+    "create_button": "Create Room"
+  },
+  
+  "join_room": {
+    "title": "Join Room",
+    "enter_code": "Enter room code",
+    "join": "Join",
+    "invalid_code": "Invalid room code",
+    "room_full": "Team is full. Try the other team.",
+    "scan_or_enter": "Scan QR or enter details below",
+    "select_team": "Select Team"
+  },
+  
+  "game": {
+    "round_completed": "Round completed",
+    "team1_score": "Team 1 Score",
+    "team2_score": "Team 2 Score",
+    "submit": "Submit",
+    "continue": "Continue",
+    "game_over": "Game Over",
+    "well_played": "Amazing performance! Well played"
+  },
+  
+  "errors": {
+    "connection_error": "Connection error. Please check your internet connection.",
+    "room_not_found": "Room not found",
+    "invalid_input": "Invalid input",
+    "unknown_error": "An unknown error occurred"
+  }
+}

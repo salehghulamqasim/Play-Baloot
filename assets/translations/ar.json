@@ -1,0 +1,91 @@
+{
+  "app_title": "يلا نلعب بالوت",
+
+  "common": {
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "back": "رجوع",
+    "next": "التالي",
+    "start": "بدء",
+    "finish": "إنهاء",
+    "save": "حفظ",
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ",
+    "success": "تم بنجاح!"
+  },
+
+  "intro": {
+    "scan": "امسح رمز QR للانضمام إلى الغرفة",
+    "play": "اللعب ضد لاعبين آخرين",
+    "score": "سجل\nالنقاط\nوفز",
+    "get_started": "ابدأ اللعب"
+  },
+
+  "home": {
+    "title": "انضم أو أنشئ غرفة",
+    "join_room": "انضم لغرفة",
+    "create_room": "إنشاء غرفة"
+  },
+
+  "room": {
+    "title": "غرفة اللعب",
+    "team1": "الفريق الأول",
+    "team2": "الفريق الثاني",
+    "target": "الهدف",
+    "player1": "لاعب 1",
+    "player2": "لاعب 2",
+    "end_round": "إنهاء الجولة",
+    "finish_game": "إنهاء اللعبة",
+    "exit_game": "خروج",
+    "waiting_admin": "في انتظار المسؤول...",
+    "victory": "فوز",
+    "game_finished": "انتهت اللعبة",
+    "team_wins": "فاز {team}",
+    "back_to_menu": "العودة للقائمة",
+    "new_game": "لعبة جديدة",
+    "leave_room": "مغادرة الغرفة"
+  },
+
+  "create_room": {
+    "title": "إنشاء غرفة جديدة",
+    "target_score": "النتيجة المستهدفة",
+    "game_time": "مدة اللعبة (بالدقائق)",
+    "create": "إنشاء غرفة",
+    "room_created": "تم إنشاء الغرفة بنجاح!",
+    "admin_name": "اسم المسؤول",
+    "admin_hint": "صاحب الغرفة",
+    "choose_time": "اختر الوقت",
+    "minutes": "دقيقة",
+    "hour": "ساعة",
+    "hours": "ساعات",
+    "points": "نقطة",
+    "create_button": "إنشاء الغرفة"
+  },
+
+  "join_room": {
+    "title": "الانضمام لغرفة",
+    "enter_code": "أدخل رمز الغرفة",
+    "join": "انضم",
+    "invalid_code": "رمز غرفة غير صالح",
+    "room_full": "الفريق ممتلئ. جرب الفريق الآخر.",
+    "scan_or_enter": "امسح رمز QR أو أدخل التفاصيل أدناه",
+    "select_team": "اختر الفريق"
+  },
+
+  "game": {
+    "round_completed": "اكتملت الجولة",
+    "team1_score": "نتيجة الفريق الأول",
+    "team2_score": "نتيجة الفريق الثاني",
+    "submit": "إرسال",
+    "continue": "متابعة",
+    "game_over": "انتهت اللعبة",
+    "well_played": "أداء رائع! أحسنت اللعب"
+  },
+
+  "errors": {
+    "connection_error": "خطأ في الاتصال. يرجى التحقق من اتصالك بالإنترنت.",
+    "room_not_found": "الغرفة غير موجودة",
+    "invalid_input": "إدخال غير صالح",
+    "unknown_error": "حدث خطأ غير معروف"
+  }
+}

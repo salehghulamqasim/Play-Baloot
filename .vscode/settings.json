@@ -1,0 +1,47 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "editor.defaultFormatter": "Dart-Code.dart-code",
+  "source.organizeImports": "explicit", // auto-sort & remove unused imports
+  // "editor.formatOnType": true,
+  // "dart.flutterSelectDeviceId": "emulator-5554", // pick your main device
+  "files.trimTrailingWhitespace": true, //Removes any extra spaces at the end of lines automatically.
+
+
+  //-----Reduce Background Analysis Load
+  "files.watcherExclude": {
+  "**/ios/Pods/**": true,
+  "**/android/.gradle/**": true,
+  "**/build/**": true,
+  "**/.dart_tool/**": true
+},
+"search.exclude": {
+  "**/ios/Pods/**": true,
+  "**/android/.gradle/**": true,
+  "**/build/**": true,
+  "**/.dart_tool/**": true
+},
+
+
+//---Lighten the Editor’s UI Rendering
+"editor.renderWhitespace": "none",
+"editor.minimap.enabled": false,
+"editor.smoothScrolling": false,
+// "workbench.iconTheme": null,
+"workbench.iconTheme": "vs-seti",
+// "workbench.colorTheme": "Default Dark+", // or another built-in theme
+
+
+//
+"dart.flutterHotReloadOnSave": "allIfDirty",
+"dart.flutterHotRestartOnSave": false,
+"dart.flutterSdkPath": "/Users/saleh/Documents/myProjects/flutter", // Flutter SDK path
+
+"editor.inlayHints.enabled": "on",
+"dart.previewFlutterUiGuides": true,
+
+"better-comments.multilineComments": true,
+"better-comments.highlightPlainText": false
+}
